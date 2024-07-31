@@ -1,0 +1,7 @@
+<suite name = "PersonelSuite">
+    <test name = "PersonelMaashesaptest">
+            <classes>
+                <class name = "org.example.Personel"/>
+            </classes>
+        </test>
+</suite>
